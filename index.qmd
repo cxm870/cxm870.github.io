@@ -1,0 +1,24 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: IMG_7450.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cxm870
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chingwen-m-119997273/
+    - icon: envelope
+      text: Email
+      href: "mailto:cxm870@case.edu"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+As a biostatistics graduate student at Case Western Reserve University with a background in public health and computer science, I am still learning how to bring these areas together in a careful and useful way. I am interested in epidemiology, data visualization, and statistics, and I use R, Python, and SAS to explore data, check ideas, and gradually deepen my understanding of public health questions.
+
