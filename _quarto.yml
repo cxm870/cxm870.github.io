@@ -27,13 +27,13 @@ website:
     # your social media handles
     right:
       - text: "About"
-        href: index.qmd
+        href: index.html
       - text: "Projects"
-        href: projects/index.qmd
+        href: projects/index.html
       - text: "CV"
-        href: cv/index.qmd
+        href: cv/index.html
       - text: "Blog"
-        href: lab5/index.qmd
+        href: lab5/index.html
 
   
 
