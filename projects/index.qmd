@@ -1,1 +1,42 @@
+---
+title: Projects
+---
 
+## NHANES vitamin D and sedentary time
+
+Class project for PQHS 431 at CWRU.  
+Uses NHANES 2017 to 2018 adults age 49 to 64 to study the relation between daily sedentary time, total vitamin D, and short-term weight change.
+
+----
+
+## Optimizing suicide prevention in individuals with psychiatric diseases
+
+Uses a large-scale national database and explainable machine learning models to build a suicide risk prediction model.  
+Identifies high-risk groups and key risk factors for policy planning.
+
+----
+
+## Assessment of the supply and demand of medical resources in rural areas of Taiwan
+
+Uses geographic information systems and statistical software to describe medical resource supply and demand in rural Taiwan.  
+Applies a Markov transition model to support resource allocation decisions.
+
+----
+
+## GSTO1 and GSTO2 gene polymorphisms and type 2 diabetes risk under arsenic exposure
+
+Investigates the relation between GSTO1 and GSTO2 gene polymorphisms, arsenic exposure, and risk of type 2 diabetes in a population-based study.
+
+----
+
+## Sentiment analysis of YouTube comments in Taiwan during COVID-19
+
+Analyzes COVID-19-related YouTube comments with text mining and sentiment analysis.  
+Links public emotional change to the course of the pandemic.
+
+```{=html}
+<div style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="/cv/" role="button" target="_blank" style="padding: 15px 30px;">
+View my CV
+</a>
+</div>
