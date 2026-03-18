@@ -1,30 +1,9 @@
 [
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "NHANES vitamin D and sedentary time\nClass project for PQHS 431 at CWRU.\nUses NHANES 2017 to 2018 adults age 49 to 64 to study the relation between daily sedentary time total vitamin D and short term weight change.\n\n\nOptimizing suicide prevention in individuals with psychiatric diseases\nUses a large scale national database and explainable machine learning models to build a suicide risk prediction model.\nIdentifies high risk groups and key risk factors for policy planning.\n\n\nAssessment of the supply and demand of medical resources in rural areas of Taiwan\nUses geographic information systems and statistical software to describe medical resource supply and demand in rural Taiwan.\nApplies a Markov transition model to support resource allocation decisions.\n\n\nGSTO1 and GSTO2 gene polymorphisms and type 2 diabetes risk under arsenic exposure\nInvestigates the relation between GSTO1 and GSTO2 gene polymorphisms arsenic exposure and risk of type 2 diabetes in a population based study.\n\n\nSentiment analysis of YouTube comments in Taiwan during COVID 19\nAnalyzes COVID 19 related YouTube comments with text mining and sentiment analysis.\nLinks public emotional change to the course of the pandemic."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
     "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nAs a biostatistics graduate student at Case Western Reserve University with a background in public health and computer science, I am still learning how to bring these areas together in a careful and useful way. I am interested in epidemiology, data visualization, and statistics, and I use R, Python, and SAS to explore data, check ideas, and gradually deepen my understanding of public health questions."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
   }
 ]
