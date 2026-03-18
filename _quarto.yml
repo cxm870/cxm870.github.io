@@ -32,6 +32,8 @@ website:
         href: projects/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - href: lab5-post.qmd
+        text: Blog
 
   
 
